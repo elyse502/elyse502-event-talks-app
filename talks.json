@@ -1,0 +1,46 @@
+{
+  "talks": [
+    {
+      "title": "The Future of JavaScript Frameworks",
+      "speakers": ["Jane Doe"],
+      "category": ["JavaScript", "Web Development", "Frontend"],
+      "duration": 60,
+      "description": "A deep dive into the evolving landscape of JavaScript frameworks. We'll explore the latest trends and what to expect in the coming years."
+    },
+    {
+      "title": "Building Scalable APIs with GraphQL",
+      "speakers": ["John Smith"],
+      "category": ["API", "GraphQL", "Backend"],
+      "duration": 60,
+      "description": "Learn how to design and build powerful, scalable APIs using GraphQL. This talk covers best practices and real-world examples."
+    },
+    {
+      "title": "AI-Powered Code Generation",
+      "speakers": ["Emily White", "David Green"],
+      "category": ["AI", "Developer Tools"],
+      "duration": 60,
+      "description": "Discover how Artificial Intelligence is changing the way we write code. We'll look at the latest AI-powered tools that can boost your productivity."
+    },
+    {
+      "title": "The Art of UI/UX Design",
+      "speakers": ["Sarah Brown"],
+      "category": ["Design", "UI", "UX"],
+      "duration": 60,
+      "description": "A guide to creating beautiful and intuitive user interfaces. This talk will cover the principles of great UI/UX design."
+    },
+    {
+      "title": "Cybersecurity in a Cloud-Native World",
+      "speakers": ["Michael Black"],
+      "category": ["Cybersecurity", "Cloud", "DevOps"],
+      "duration": 60,
+      "description": "As applications move to the cloud, security becomes more critical than ever. Learn how to secure your cloud-native applications."
+    },
+    {
+      "title": "WebAssembly: The Next Frontier",
+      "speakers": ["Chris Blue"],
+      "category": ["WebAssembly", "Performance", "Web Development"],
+      "duration": 60,
+      "description": "Explore the power of WebAssembly and how it's enabling near-native performance in web applications. We'll look at use cases and how to get started."
+    }
+  ]
+}
